@@ -1,8 +1,7 @@
 ### Hi I'm JustRise
 ![version :17.08.2021](https://img.shields.io/badge/version-17.08.2021-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=JustRise&color=red)&nbsp;
-[![GitHub wrozyyy](https://img.shields.io/github/followers/JustRise?label=follow&style=social)](https://github.com/JustRise)&nbsp;
-![build: passing](https://img.shields.io/badge/build-passing-success)
+[![GitHub JustRise](https://img.shields.io/github/followers/JustRise?label=follow&style=social)](https://github.com/JustRise)&nbsp;
 
 ### 🛠 &nbsp;Software Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -14,5 +13,6 @@
 
 ### 📫 &nbsp; How to reach me:
 <a href="https://discord.com/users/653723091842891776"><img alt="Gmail" src="https://img.shields.io/badge/Discord Account-2f3236?style=flat&logo=discord&logoColor=blue" /></a> &nbsp;
+
 ###
 <a href="https://discord.gg/ha6hUtvDVs"><img alt="Gmail" src="https://img.shields.io/badge/Discord Server-2f3236?style=flat&logo=discord&logoColor=blue" /></a> &nbsp;
