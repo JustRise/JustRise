@@ -15,7 +15,7 @@
 ## Stats  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 ![Wasty Stats](https://github-readme-stats.vercel.app/api?username=JustRise&theme=vue-dark&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?JustRise=wastydev&layout=compact&theme=vue-dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JustRise&layout=compact&theme=vue-dark)
 
 ### 📫 &nbsp; How to reach me:
 <a href="https://discord.com/users/653723091842891776"><img alt="Gmail" src="https://img.shields.io/badge/Discord Account-2f3236?style=flat&logo=discord&logoColor=blue" /></a> &nbsp;
