@@ -1,4 +1,4 @@
-### Hello I'm Wrozy
+### Hi I'm JustRise
 ![version :17.08.2021](https://img.shields.io/badge/version-17.08.2021-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=JustRise&color=red)&nbsp;
 [![GitHub wrozyyy](https://img.shields.io/github/followers/JustRise?label=follow&style=social)](https://github.com/JustRise)&nbsp;
