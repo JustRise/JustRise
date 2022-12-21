@@ -13,6 +13,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 ### 📫 &nbsp; How to reach me:
-<a href="https://discord.com/users/653723091842891776"><img alt="Gmail" src="https://img.shields.io/badge/Discord-2f3236?style=flat&logo=discord&logoColor=blue" /></a> &nbsp;
+<a href="https://discord.com/users/653723091842891776"><img alt="Gmail" src="https://img.shields.io/badge/Discord Account-2f3236?style=flat&logo=discord&logoColor=blue" /></a> &nbsp;
 ###
-<a href="https://discord.gg/ha6hUtvDVs"><img alt="Gmail" src="https://img.shields.io/badge/DiscordServer-2f3236?style=flat&logo=discord&logoColor=blue" /></a> &nbsp;
+<a href="https://discord.gg/ha6hUtvDVs"><img alt="Gmail" src="https://img.shields.io/badge/Discord Server-2f3236?style=flat&logo=discord&logoColor=blue" /></a> &nbsp;
